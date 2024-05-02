@@ -8,6 +8,7 @@ The original homework .pdf file is stored in `homework1.pdf`.
 
 The solutions for the completed exercises are stored in `scripts.ipynb`, for both "Problem 1" and "Problem 2". The file is a Jupyter Notebook containing for every exercise its title and solution. Every proposed exercise has been completed.
 
+
 The folder `stamps/` contains three files:
 
 * `problem1.pdf`: the .pdf printout of HACKERRANK's submission pages for exercises in "Problem 1". Strikethrough text is used to hide submissions not related to the problem.
